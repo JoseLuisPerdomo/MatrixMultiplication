@@ -1,4 +1,4 @@
-from main.mm_for_benchmark import matrix_multiplication_efficient, matrix_multiplication_inefficient
+from Code.Python.main.mm_for_benchmark import matrix_multiplication_efficient, matrix_multiplication_inefficient
 
 
 def test_benchmark_mm_efficient(benchmark):
