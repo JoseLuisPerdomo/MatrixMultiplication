@@ -1,1 +1,0 @@
-JMH S 53 matrix.multiplication.benchmark_code.Matrix_Benchmark S 84 matrix.multiplication.benchmark_code.jmh_generated.Matrix_Benchmark_multiply_jmhTest S 8 multiply S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E M 1 4 size 4 8 xAAMAADA 8 1AAMAADA 16 xAAMAADAwAA===== 16 xAgMAADAwAA===== U 12 MILLISECONDS E E 
