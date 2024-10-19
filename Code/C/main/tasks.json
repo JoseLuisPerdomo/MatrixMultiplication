@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compilar mm_benchmark",
+            "type": "process",
+            "command": "cl.exe",
+            "args": [
+                "/EHsc",
+                "/Fe:mm_benchmark.exe",
+                "mm_benchmark.c"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$msCompile"],
+            "detail": "Compila mm_benchmark.c usando cl.exe"
+        }
+    ]
+}
